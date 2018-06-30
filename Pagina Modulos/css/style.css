@@ -1,0 +1,184 @@
+	/*font awesome se utiliza para iconos
+	google fonts se utiliza para estilos de letra*/
+	section{
+    	background-color: #f2f2f2
+    }
+      h1 {
+        font-size:40px;
+      }
+       h2 {
+        font-size:30px;
+      }
+        h3 {
+        font-size:25px;
+      }
+      h4 {
+        font-size:10px;
+      }
+      * { 
+        margin:0;
+        padding:0;
+      }
+
+
+	.letra{
+		font-family: 'Muli', sans-serif;
+	}
+
+
+
+	#section0 {
+		background-color: #f2f2f2;
+  		padding:30px;
+        
+    }
+	#section1 {
+		background-color: #f2f2f2;
+        height:500px;
+        padding:30px;
+        
+    }
+    #section2 {
+      background-color:#fff;
+        height:500px;        
+    }
+      #section3 { 
+        text-align: center;
+        background-color: #f2f2f2;
+        height:500px;
+    }
+    #section4 { 
+        text-align: center;
+        background-color: #fff;
+        height:500px;
+        }
+     #section5 { 
+        text-align: center;
+        background-color: #fff;
+        height:500px;
+        }
+      #section6 { 
+        text-align: center;
+        background-color: #fff;
+        height:500px;
+         }
+         #section7{ 
+          height:500px;
+         }
+
+        #section8 { 
+        position: relative;
+        text-align: left;
+        height:500px;
+        background-color: #f2f2f2;
+         }
+    
+    .w1 {
+      display: inline;
+      float: left;
+      width: 20%;
+    }
+    .w2 {
+      display: inline;
+      float: right;
+      width: 80%;
+      height: 500px;
+    }
+    .w3 {
+      display: inline;
+      float: left;
+    }
+    .w4 {
+      display: inline;
+      height: 500px;
+    }
+    .w5 {
+      display: inline;
+      float: left;
+      width: 33%;
+    }
+
+    .w6 {
+      position: absolute;
+      left: 0;
+    }
+    .w7 {
+      position: relative;
+      left: 25%;
+      width: 50%;
+    }
+    .w8 {
+      position: relative;
+      top: 150px;
+      left: 3%;
+      width: 40%;
+      color: #fff;
+    }
+    .w9 {
+      position: relative;
+      top: 30%;
+      width: 60%;
+      height: 
+    }
+    .w10 {
+      width: 50%;
+      height: 400px;
+      position:absolute;
+      top:0;
+      left:0;
+      }
+      .w11 {
+      position:absolute;
+      top:150px;
+      left:150px;
+    }
+    a:hover {
+      opacity: 0.5;
+    }
+     .w12 {
+      position:absolute;
+      left:55%;
+      }
+      .w13 {
+      position:absolute;
+      left:75%;
+      }
+       .w14 {
+      position:absolute;
+      left:55%;
+      top: 50%;
+      }
+      .w15 {
+      position:absolute;
+      left:75%;
+      top: 50%;
+      }
+      .w16 {
+      width: 150px;
+      height: 150px;
+      position:absolute;
+      top:0;
+      left:0;
+      }
+      .w17 {
+      width: 150px;
+      height: 150px;
+      position:absolute;
+      top:0;
+      left:0;
+      }
+       .w18 {
+     width: 150px;
+      height: 150px;
+      position:absolute;
+      top:0;
+      left:0;
+      }
+      .w19 {
+      width: 150px;
+      height: 150px;
+      position:absolute;
+      top:0;
+      left:0;
+      }
+    
